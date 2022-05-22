@@ -1,0 +1,30 @@
+div{
+    color:black;
+}
+p{
+    color:hotpink;
+    border: 1px solid black;
+}
+h1{
+    font-size: 48px;
+    color:darkcyan;
+}
+h2{
+    font-size: 28px;
+    color:chocolate;
+}
+h3{
+    font-size: 25px;
+}
+.description{
+    color:cornflowerblue;
+    padding: 5px;
+}
+.ingredients{
+    color:cornflowerblue;
+    padding: 5px;
+}
+.cookingTime{
+    color:cornflowerblue;
+    padding:5px;
+}
